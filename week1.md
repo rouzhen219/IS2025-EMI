@@ -14,7 +14,13 @@
   > Helps 員工流程：快速點單、自動更新庫存、查看銷售
   > Users 使用者：店員、店長、顧客（間接）
 
-4. The material says IS helps organizations gain a competitive advantage. 🏆 Can you think of a company that uses an IS so well it seems like their secret weapon? 🤫 What makes their system so special? 
+3. The material says IS helps organizations gain a competitive advantage. 🏆 Can you think of a company that uses an IS so well it seems like their secret weapon? 🤫 What makes their system so special? 🚀✨🌟
+   Hint: 舉一個你認為因資訊系統而特別成功的公司，並說明它的獨特之處。
+   >Amazon
+    >Secret Weapon 祕密武器：物流系統、推薦引擎、雲端服務
+    >Special 特別之處：高效率、個人化、全面自動化
+   
+5. The material says IS helps organizations gain a competitive advantage. 🏆 Can you think of a company that uses an IS so well it seems like their secret weapon? 🤫 What makes their system so special? 
     Hint: 舉一個你認為因資訊系統而特別成功的公司，並說明它的獨特之處。
 > Amazon
 > Secret Weapon 祕密武器：物流系統、推薦引擎、雲端服務
